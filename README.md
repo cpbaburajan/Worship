@@ -1,2 +1,2 @@
 # Worship
-Sftware for Technical Institute
+Software for Technical Institute
